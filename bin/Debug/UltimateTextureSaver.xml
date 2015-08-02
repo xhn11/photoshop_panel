@@ -1,0 +1,93 @@
+<UltimateTextureSaver>
+	<Texture name="Diffuse" suffix="_diff" >
+		<Components>
+			<Component name="diff" target="color"/>
+			<Component name="alpha" target="a"/>
+		</Components>
+	</Texture>
+	<Texture name="Specular" suffix="_spec" >
+		<Components>
+			<Component name="spec" target="color"/>
+		</Components>
+	</Texture>
+	<Texture name="Normal" suffix="_ddn" >
+		<Components>
+			<Component name="normal" target="color"/>
+		</Components>
+	</Texture>	
+	<Texture name="Displace" suffix="_displ" >
+		<Components>
+			<Component name="displ" target="a" />
+		</Components>
+	</Texture>
+	<Texture name="Detail" suffix="_dt" >
+		<Components>
+			<Component name="detail_diff" target="r"/>
+			<Component name="detail_gloss" target="b"/>
+			<Component name="detail_normal" target="ga" mapping="rg" />
+		</Components>
+	</Texture>
+	<Texture name="Blend" suffix="_mask" >
+		<Components>
+			<Component name="blend" target="color"/>
+		</Components>
+	</Texture>
+	<Texture name="Normal_Gloss" suffix="_ddna" >
+		<Components>
+			<Component name="normal" target="color"/>
+			<Component name="gloss" target="a"/>
+		</Components>
+	</Texture>
+	<Texture name="SSS" suffix="_sss" >
+		<Components>
+			<Component name="sss_translucency" target="r"/>
+			<Component name="sss_invert" target="g"/>
+		</Components>
+	</Texture>
+	<Texture name="Clouds" suffix="_cloud_diff" >
+		<Components>
+			<Component name="shape1" target="r"/>
+			<Component name="shape2" target="g"/>
+			<Component name="highpass" target="b"/>
+			<Component name="noise" target="a"/>
+		</Components>
+	</Texture>
+	<Texture name="Weapon_mask" suffix="_weapon_mask" >
+		<Components>
+			<Component name="regions" target="a"/>
+			<Component name="blood" target="g"/>
+			<Component name="edges" target="b"/>
+			<Component name="rust" target="r"/>
+		</Components>
+	</Texture>
+	<Texture name="Dirt_Blood_Mask" suffix="_dirtblood_mask" >
+		<Components>
+			<Component name="dirt_regions" target="r"/>
+                        <Component name="dirt_texture" target="g"/>
+			<Component name="blood_regions" target="b"/>
+                        <Component name="blood_texture" target="a"/>
+		</Components>
+        </Texture>
+	<Texture name="Damage_Cloth_Diffuse" suffix="_scratches_diff" >
+		<Components>
+			<Component name="damage_diff" target="color"/>
+                        <Component name="damage_mask" target="a"/>
+		</Components>
+        </Texture>
+	<Texture name="Damage_Cloth_Normal" suffix="_scratches_ddna" >
+		<Components>
+			<Component name="damage_normal" target="color"/>
+                        <Component name="damage_gloss" target="a"/>
+		</Components>
+        </Texture>
+	<Texture name="Damage_Cloth_Specular" suffix="_scratches_spec" >
+		<Components>
+			<Component name="damage_specular" target="color"/>
+		</Components>
+        </Texture>
+	<Texture name="Cloth_Zone_Mask" suffix="_zone_mask" >
+		<Components>
+			<Component name="cloth_zone_mask" target="color"/>
+		</Components>
+        </Texture>
+</UltimateTextureSaver>

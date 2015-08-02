@@ -1,0 +1,11 @@
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\bin\Debug\photoshop_panel.exe.config
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\bin\Debug\photoshop_panel.exe
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\bin\Debug\photoshop_panel.pdb
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\photoshop_panel.csprojResolveAssemblyReference.cache
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\photoshop_panel.Form1.resources
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\photoshop_panel.Properties.Resources.resources
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\photoshop_panel.csproj.GenerateResource.Cache
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\photoshop_panel.exe
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\photoshop_panel.pdb
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\Interop.Photoshop.dll
+C:\Users\xhn\Documents\Visual Studio 2013\Projects\photoshop_panel\photoshop_panel\obj\Debug\photoshop_panel.csproj.ResolveComReference.cache
